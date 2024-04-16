@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #111111;
+  --text-primary: #fafafa;
+  --text-secondary: #a1a1aa;
+  --accent: #6366f1;
+  --bar-default: #6366f1;
+  --bar-comparing: #f59e0b;
+  --bar-swapping: #ef4444;
+  --bar-sorted: #22c55e;
+  --bar-pivot: #ec4899;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
