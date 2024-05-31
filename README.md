@@ -1,5 +1,7 @@
 # Algo Viz
 
+> Lab project — interactive sorting algorithm visualization for learning and comparison.
+
 Interactive sorting algorithm visualizer built with Next.js, React, and Tailwind CSS.
 
 ## Features
