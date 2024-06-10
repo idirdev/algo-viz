@@ -38,3 +38,20 @@ Open [http://localhost:3000](http://localhost:3000).
 - React 19
 - TypeScript
 - Tailwind CSS
+
+---
+
+## Français
+
+**Algo Viz** est un visualiseur interactif d'algorithmes de tri construit avec Next.js, React et Tailwind CSS. Il permet d'observer en temps réel le fonctionnement de 5 algorithmes classiques (Bubble, Selection, Insertion, Merge et Quick Sort) grâce à un graphique à barres animé avec des états colorés, un compteur de comparaisons et d'échanges, ainsi que l'affichage de la complexité Big-O de chaque algorithme.
+
+### Installation
+
+```bash
+npm install
+npm run dev
+```
+
+### Utilisation
+
+Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur. Sélectionnez un algorithme, ajustez la vitesse et la taille du tableau, puis appuyez sur lecture pour lancer la visualisation.
