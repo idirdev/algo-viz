@@ -55,3 +55,4 @@ npm run dev
 ### Utilisation
 
 Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur. Sélectionnez un algorithme, ajustez la vitesse et la taille du tableau, puis appuyez sur lecture pour lancer la visualisation.
+
